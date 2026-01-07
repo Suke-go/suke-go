@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm <a href="https://github.com/YOUR_USERNAME">ksk432</a> 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/Suke-gp">ksk432</a> 👋</h1>
   <h3>A univ student at University of Tsukuba</h3>
   
   <a href="https://x.com/ksk432smz">
@@ -23,9 +23,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suke-go&layout=compact&theme=tokyonight" alt="Top Langs" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suke-go&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
 </div>
 
 ### 🌱 Currently Working on
